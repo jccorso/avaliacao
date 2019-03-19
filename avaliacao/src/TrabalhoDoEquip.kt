@@ -1,0 +1,1 @@
+class TrabalhoDoEquip(var equipamento: Equipamento, var horas: Int)
